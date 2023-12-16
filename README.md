@@ -24,7 +24,11 @@ DHT Sensor library for ESPx y LiquidCrystal I2C:
 3. Hacemos las conexiónes de DHT11 y LCD 16x2 (I2C) con la ESP32 como se muestra en la siguente imagen:
 ![.](https://github.com/AdalGuadarrama/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/lcd.3.png)
 
-4. 
+4. ###### Operación
+Iniciar simulador.
+Visualizar los datos en el monitor serial.
+Visualizar los datos en la pantalla LCD.
+Colocar la temperatura y humedad dando doble click al sensor DHT11.
 
 
 
