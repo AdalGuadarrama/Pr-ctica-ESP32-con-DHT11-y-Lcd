@@ -1,4 +1,4 @@
-# Pr-ctica-ESP32-con DHT11 y Lcd
+# Practica-ESP32-con DHT11 y Lcd
 Este repositorio muestra cómo programar un ESP32 usando el sensor DHT11 y muestra los datos obtenidos mostrados en una pantalla LCD.
 ## Introducción
 ### Descripción
