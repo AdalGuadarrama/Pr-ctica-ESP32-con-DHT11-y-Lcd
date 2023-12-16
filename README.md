@@ -16,5 +16,13 @@ Requisitos previos
 Para poder hacer uso de este repositorio se requiere entrar a la plataforma de WOKWI.
 1. Abrir la terminal de programación y colocar el siguiente código:
 ![.](https://github.com/AdalGuadarrama/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/p2..png)
-Libreria de DHT Sensor library for ESPx y LiquidCrystal I2C:
+
+2. ###### Libreria
+DHT Sensor library for ESPx y LiquidCrystal I2C:
+![.](https://github.com/AdalGuadarrama/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/lcd4.png)
+
+3. Hacemos las conexiónes de DHT11 y LCD 16x2 (I2C) con la ESP32 como se muestra en la siguente imagen.
+
+
+
 
